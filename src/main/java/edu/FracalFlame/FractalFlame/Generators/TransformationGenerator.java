@@ -2,9 +2,9 @@ package edu.FracalFlame.FractalFlame.Generators;
 
 import edu.FracalFlame.FractalFlame.Transformations.Factories.TransformationFactory;
 import edu.FracalFlame.FractalFlame.Transformations.Types.Transformation;
+import org.jetbrains.annotations.NotNull;
 import java.util.ArrayList;
 import java.util.List;
-import org.jetbrains.annotations.NotNull;
 
 public final class TransformationGenerator implements Generator<Transformation> {
     private final List<String> typesTransformations;
