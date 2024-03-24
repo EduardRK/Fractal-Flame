@@ -28,6 +28,7 @@ public final class Constants {
     public static final double E_AFFINE_MIN = -1;
     public static final double F_AFFINE_MAX = 1;
     public static final double F_AFFINE_MIN = -1;
+    public static final double ASD_WASD = 100;
 
     private Constants() {
     }
